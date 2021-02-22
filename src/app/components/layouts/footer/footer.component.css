@@ -1,0 +1,32 @@
+@media (max-width: 360px){    
+    h6{
+        font-size: 6vw;
+    }
+    p{
+        font-size: 4vw;
+    }
+    li{
+        font-size: 4vw;
+    }
+}
+
+.footer-area{
+    color: white;
+    padding: 52px 0px;
+    background-color: black;
+}
+.footer-area li{
+    color: rgb(255, 255, 255, 0.8);
+}
+
+.border-line{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(245, 245, 245,0.8);
+}
+.copyright{
+    color: rgb(255, 255, 255, 0.6);
+}
+.developer{
+    color: whitesmoke;
+}
